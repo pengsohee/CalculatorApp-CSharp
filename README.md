@@ -36,6 +36,3 @@ Feel free to fork this repository and submit pull requests for improvements. Her
 - Add more mathematical functions (e.g., square root, exponentiation).
 - Improve the UI design.
 - Add unit tests for calculator functions.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
